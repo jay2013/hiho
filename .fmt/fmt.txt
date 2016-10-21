@@ -1,11 +1,3 @@
-/* ******************************************************************
- * title: [hiho program title]
- * url: [hiho url]
- * date: [!Date]
- * description: [what's the question]
- * general idea: [how to solve it]
- * tags: [use which algorithms] 
- *******************************************************************/
 #include <iostream>
 #include <stack>
 #include <set>
